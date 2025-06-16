@@ -1,4 +1,5 @@
 📦 TrainingPlansApi.Tests – Dokumentacja testów jednostkowych
+
 🧪 Cel projektu testowego
 Ten projekt zawiera testy jednostkowe i integracyjne dla aplikacji TrainingPlansApi. Pokrywa testami:
 API i kontrolery MVC
