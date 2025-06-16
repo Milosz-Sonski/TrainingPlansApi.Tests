@@ -2,9 +2,9 @@
 
 ## 🧪 Cel projektu testowego
 Ten projekt zawiera testy jednostkowe i integracyjne dla aplikacji TrainingPlansApi. Pokrywa testami:
-API i kontrolery MVC
-Modele (TrainingPlan, ErrorViewModel)
-Walidację danych i błędne scenariusze
+- API i kontrolery MVC
+- Modele (TrainingPlan, ErrorViewModel)
+- Walidację danych i błędne scenariusze
 
 ## 🧪 Jak uruchomić testy w Visual Studio?
 ## ✅ Krok 1: Otwórz projekt w Visual Studio
@@ -24,9 +24,9 @@ Kliknij Run All Tests lub wybierz testy pojedynczo.
 
 ## ✅ Interpretacja wyników
 Wyniki pojawią się w okienku Test Explorer:
-✔️ zielony – test zakończył się sukcesem
-❌ czerwony – test zakończył się błędem
-⚠️ szary – test został pominięty (np. [Ignore])
+- ✔️ zielony – test zakończył się sukcesem
+- ❌ czerwony – test zakończył się błędem
+- ⚠️ szary – test został pominięty (np. [Ignore])
 
 Kliknięcie w nazwę testu pokaże pełen ślad stosu (stack trace) i szczegóły błędu.
 
