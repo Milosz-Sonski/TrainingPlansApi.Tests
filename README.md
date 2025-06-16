@@ -30,7 +30,7 @@ Wyniki pojawią się w okienku Test Explorer:
 
 Kliknięcie w nazwę testu pokaże pełen ślad stosu (stack trace) i szczegóły błędu.
 
-'''
+<details>
 📂 Struktura folderów testowych
 TrainingPlansApi.Tests/
 │
@@ -42,7 +42,7 @@ TrainingPlansApi.Tests/
 ├── ModelsTests/
 │   ├── ErrorViewModelTests.cs
 │   └── TrainingPlanModelTests.cs
-'''
+</details>
 
 ## 📌 Uwagi
 Wszystkie testy bazują na InMemoryDatabase – nie wymagają SQL Servera
