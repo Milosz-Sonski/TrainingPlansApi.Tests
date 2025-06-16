@@ -32,7 +32,6 @@ Kliknięcie w nazwę testu pokaże pełen ślad stosu (stack trace) i szczegół
 
 ## 📂 Struktura folderów testowych
 <code>
-'''
 TrainingPlansApi.Tests/
 │
 ├── ControllersTests/
@@ -43,10 +42,9 @@ TrainingPlansApi.Tests/
 ├── ModelsTests/
 │   ├── ErrorViewModelTests.cs
 │   └── TrainingPlanModelTests.cs
-'''
 </code>
 
 ## 📌 Uwagi
-Wszystkie testy bazują na InMemoryDatabase – nie wymagają SQL Servera
-Testy są izolowane – każdy działa na świeżej instancji bazy danych
-Kod testów pisany jest z użyciem NUnit i Microsoft.AspNetCore.Mvc
+- Wszystkie testy bazują na InMemoryDatabase – nie wymagają SQL Servera
+- Testy są izolowane – każdy działa na świeżej instancji bazy danych
+- Kod testów pisany jest z użyciem NUnit i Microsoft.AspNetCore.Mvc
